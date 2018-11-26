@@ -1,6 +1,6 @@
-# boat-race-scratch2
+# boat-race 
 
-![boat-race-scratch2](banner.png)
+![boat-race](en/images/small_banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/boat-race-scratch2](https://projects.raspberrypi.org/en/projects/boat-race-scratch2)
 
