@@ -3,7 +3,7 @@
 --- task ---
 Open the starter project.
 
-Download the offline starter project from [rpf.io/boat-race-starter-off](http://rpf.io/boat-race-starter-off){:target="_blank"}, and then open it using the offline editor.
+Download the offline starter project from [rpf.io/p/en/boat-race-scratch2-go](http://rpf.io/p/en/boat-race-scratch2-go){:target="_blank"}, and then open it using the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff).
 --- /task ---

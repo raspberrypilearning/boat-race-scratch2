@@ -36,7 +36,7 @@ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/){:target="
 
 ### Downloads
 
-Downloads can be found [here](http://rpf.io/boat-race-go){:target="_blank"}.
+Downloads can be found [here](http://rpf.io/p/en/boat-race-scratch2-go){:target="_blank"}.
 --- /collapse ---
 
 --- collapse ---
