@@ -32,7 +32,7 @@ A computer capable of running Scratch 2.0
 
 ### Software
 
-Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/){:target="_blank"} or [offline](https://scratch.mit.edu/scratch2download/){:target="_blank"})
+Scratch 2.0 [offline](https://scratch.mit.edu/scratch2download/){:target="_blank"}
 
 ### Downloads
 
@@ -56,7 +56,7 @@ title: Additional information for educators
 ---
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/boat-race-scratch2/print){:target="_blank"}.
 
-You can find the finished code for this project [here](http://rpf.io/p/en/boat-race-get){:target="_blank"}.
+You can find the finished code for this project [here](http://rpf.io/p/en/boat-race-scratch2-get){:target="_blank"}.
 
 --- /collapse ---
 
