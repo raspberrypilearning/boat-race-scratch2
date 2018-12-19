@@ -25,30 +25,12 @@ On the Stage, `when the green flag is clicked`{:class="blockcontrol"}, `set the 
 --- hint ---
 Here are the code blocks you'll need:
 ![stage](images/stage.png)
-```blocks
-change [time v] by (0.1)
-
-when flag clicked
-
-forever
-end
-
-wait (0.1) secs
-
-set [time v] to [0]
-```
+![blocks_1545215398_6072779](images/blocks_1545215398_6072779.png)
 --- /hint ---
 --- hint ---
 Here's what your new code should look like:
 ![stage](images/stage.png)
-```blocks
-when flag clicked
-set [time v] to [0]
-forever
-wait (0.1) secs
-change [time v] by (0.1)
-end
-```
+![blocks_1545215399_8649147](images/blocks_1545215399_8649147.png)
 --- /hint ---
 --- /hints ---
 

@@ -16,11 +16,7 @@ Edit your Stage backdrop by adding in some white booster arrows.
 
 Now add more code blocks to your boat's `forever`{:class="blockcontrol"} loop so that the boat sprite moves three extra steps when it touches a white arrow.
 ![boat-sprite](images/boat_resize.png)
-```blocks
-if <touching color [#FFFFFF] ?> then
-move (3) steps
-end
-```
+![blocks_1545215401_0158393](images/blocks_1545215401_0158393.png)
 --- /task ---
 
 --- task ---
@@ -60,24 +56,12 @@ Add code blocks to the gate sprite so that it `turns 1 degree`{:class="blockmoti
 --- hint ---
 Here are the code blocks you need:
 ![gate](images/gate.png)
-```blocks
-forever
-end
-
-turn cw (1) degrees
-
-when flag clicked
-```
+![blocks_1545215402_0789573](images/blocks_1545215402_0789573.png)
 --- /hint ---
 --- hint ---
 Here's what your new code should look like:
 ![gate](images/gate.png)
-```blocks
-when flag clicked
-forever
-turn cw (1) degrees
-end
-```
+![blocks_1545215403_197501](images/blocks_1545215403_197501.png)
 --- /hint ---
 --- /hints ---
 
