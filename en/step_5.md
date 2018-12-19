@@ -14,12 +14,12 @@ You need to add more code blocks inside your `forever`{:class="blockcontrol"} lo
 --- hint ---
 Here are the code blocks you need:
 ![boat-sprite](images/boat_resize.png)
-![blocks_1545215396_326376](images/blocks_1545215396_326376.png)
+![blocks_1545233133_2938209](images/blocks_1545233133_2938209.png)
 --- /hint ---
 --- hint ---
 Here's what your new code should look like:
 ![boat-sprite](images/boat_resize.png)
-![blocks_1545215397_4214482](images/blocks_1545215397_4214482.png)
+![blocks_1545233134_3730252](images/blocks_1545233134_3730252.png)
 
 Don't forget that this new code needs to be inside the `forever`{:class="blockcontrol"} loop. 
 --- /hint ---
