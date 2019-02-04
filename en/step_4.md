@@ -30,12 +30,41 @@ You need to add code blocks inside your `forever`{:class="blockcontrol"} loop so
 --- hint ---
 Here are the code blocks you need:
 ![boat-sprite](images/boat_resize.png)
-![blocks_1545233131_091678](images/blocks_1545233131_091678.png)
+```blocks
+if <touching color [ ] ?> then
+end
+
+go to x: (-190) y: (-150)
+
+switch costume to [hit v]
+
+point in direction (0 v)
+
+switch costume to [normal v]
+
+say [Noooooo!] for (2) secs
+```
 --- /hint ---
 --- hint ---
 Here's what your code should look like:
 ![boat-sprite](images/boat_resize.png)
-![blocks_1545233132_176399](images/blocks_1545233132_176399.png)
+```blocks
+when flag clicked
+point in direction (0 v)
+go to x: (-190) y: (-150)
+forever
+if <(distance to [mouse-pointer v]) > [5]> then
+point towards [mouse-pointer v]
+move (1) steps
+end
+if <touching color [#663b00] ?> then
+switch costume to [hit v]
+say [Noooooo!] for (2) secs
+switch costume to [normal v]
+point in direction (0 v)
+go to x: (-190) y: (-150)
+end
+```
 --- /hint ---
 --- /hints ---
 
